@@ -96,6 +96,13 @@ How does Citizen AI ensure transparency?
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue)](https://drive.google.com/file/d/1xVFQbDiw4d2KTfMlTOolVrnnacAp_74c/view?usp=drivesdk)
+
+
+
+---
 👩‍💻 Author
 
 This project is created by Nivetha V,Nisma A,Rifaya Sulthana B,Savitha Ks
